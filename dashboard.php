@@ -46,7 +46,7 @@ $archivo= $_SESSION['archivo'];
                 <li>
                     <a href="#">
                         <i class="fas fa-question-circle"></i>
-                        <span>FAQ</span>
+                        <span>FAQ </span>
                     </a>
                 </li>
                 <li>
