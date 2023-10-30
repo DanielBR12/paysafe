@@ -26,7 +26,7 @@ $archivo= $_SESSION['archivo'];
                     </a>
                 </li>
                 <li>
-                    <a href="#">
+                    <a href="profile.php">
                         <i class="fas fa-user"></i>
                         <span>Perfil</span>
                     </a>
@@ -38,23 +38,18 @@ $archivo= $_SESSION['archivo'];
                     </a>
                 </li>
                 <li>
-                    <a href="#">
+                    <a href="clients.php">
                         <i class="fas fa-briefcase"></i>
-                        <span>Carreras</span>
+                        <span>Clientes</span>
                     </a>
                 </li>
                 <li>
                     <a href="#">
                         <i class="fas fa-question-circle"></i>
-                        <span>FAQ </span>
+                        <span>FAQ</span>
                     </a>
                 </li>
-                <li>
-                    <a href="#">
-                        <i class="fas fa-star"></i>
-                        <span>Testimonios</span>
-                    </a>
-                </li>
+                
                 <li>
                     <a href="#">
                         <i class="fas fa-cog"></i>
